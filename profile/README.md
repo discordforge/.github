@@ -35,7 +35,7 @@ Listing options for developers:
 ## Roadmap
 
 Coming soon:
-*   **Official NPM Package**: We are building a `@discordforge` package for npm. This SDK lets developers interact with our API, automatically update bot statistics, and integrate platform features directly into their codebase.
+*   **Official NPM Package**: We are building a `@discordforge-sdk` package for npm. This SDK lets developers interact with our API, automatically update bot statistics, and integrate platform features directly into their codebase.
 
 ## Tech Stack
 
