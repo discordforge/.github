@@ -32,10 +32,18 @@ Listing options for developers:
 *   **Premium ($1.99/mo)**: Enhanced visibility and access to an analytics dashboard.
 *   **Forge**: Top tier for maximum marketplace exposure.
 
-## Roadmap
+## SDK
 
-Coming soon:
-*   **Official NPM Package**: We are building a `@discordforge-sdk` package for npm. This SDK lets developers interact with our API, automatically update bot statistics, and integrate platform features directly into their codebase.
+The official Node.js SDK for the DiscordForge platform is available on npm.
+
+<a href="https://www.npmjs.com/package/discordforge-sdk"><img src="https://img.shields.io/badge/npm-discordforge--sdk-red?style=for-the-badge&logo=npm" alt="npm" /></a>
+<a href="https://github.com/discordforge/sdk"><img src="https://img.shields.io/badge/GitHub-discordforge%2Fsdk-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+
+```bash
+npm install discordforge-sdk
+```
+
+Lets bot developers post stats, check votes, and sync commands directly from their codebase. Zero dependencies, TypeScript included. See the [sdk repository](https://github.com/discordforge/sdk) for full documentation.
 
 ## Tech Stack
 
